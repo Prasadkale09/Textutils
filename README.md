@@ -1,3 +1,4 @@
+![Screenshot 2023-07-17 092534](https://github.com/Prasadkale09/Textutils/assets/98744936/841be8f4-f39e-4325-a507-3a8eb40739ac)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
