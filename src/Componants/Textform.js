@@ -53,7 +53,7 @@ export default function Textform(props) {
         <textarea
           className="form-control"
           // in this value we can set the text value using state
-          value={text} onChange={handleOnChange} id="exampleFormControlTextarea1" rows="10"></textarea>
+          value={text} onChange={handleOnChange} id="exampleFormControlTextarea1" rows="10" ></textarea>
       </div>
       <button type="button" className="btn btn-primary mx-2" onClick={handleupClick}>Uppercase </button>
       <button type="button" className="btn btn-primary mx-2" onClick={handlelowClick}>Lowercase </button>
@@ -72,3 +72,5 @@ export default function Textform(props) {
     </>
   );
 }
+
+
